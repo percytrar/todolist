@@ -2,6 +2,6 @@ li .done span {
     text-decoration: line-through;
   }
 body{
-  background-image: url("/media/bg1.jpg");
-  background-size: auto;
+  background-image: url("https://github.com/percytrar/todolist/blob/master/media/bg1.jpg");
+  background-size: cover;
 }
